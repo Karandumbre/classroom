@@ -1,0 +1,7 @@
+.iphone83 {
+  position: relative;
+  background-color: var(--light-solid-color-extra-card-background);
+  width: 100%;
+  height: 667px;
+  overflow: hidden;
+}
